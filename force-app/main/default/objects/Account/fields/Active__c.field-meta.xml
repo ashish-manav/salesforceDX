@@ -15,9 +15,9 @@
                 <label>No</label>
             </value>
             <value>
-                <fullName>Yup</fullName>
+                <fullName>Yes</fullName>
                 <default>false</default>
-                <label>Yup</label>
+                <label>Yes</label>
             </value>
         </valueSetDefinition>
     </valueSet>
